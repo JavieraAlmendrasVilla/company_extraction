@@ -2,7 +2,7 @@
 
 # Company Annual Report Screening
 
-This project fetches annual reports of German companies from [handelsregister.ai](https://handelsregister.ai/), extracts structured financial statements, and screens them for keywords or statements relevant to your business offerings.
+This project fetches annual reports of German companies from [handelsregister.ai](https://handelsregister.ai/), extracts structured financial statements, and screens them for keywords or statements relevant to you.
 
 ---
 
