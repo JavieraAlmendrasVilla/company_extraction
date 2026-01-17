@@ -26,10 +26,8 @@ def fetch_company(
                 params[f"feature[{i}]"] = feature
 
     response = requests.get(url, params=params)
-    print(response.url)
     response.raise_for_status()
     response_json = response.json()
-    print(response_json)
     return response_json
 
 
