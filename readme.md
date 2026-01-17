@@ -25,7 +25,7 @@ company_extraction/
 1. **Clone the project**:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/JavieraAlmendrasVilla/company_extraction.git
 cd company_extraction
 ```
 
@@ -140,8 +140,4 @@ os.makedirs("data/results", exist_ok=True)
 
 * Handle API credits carefully — fetching annual reports consumes credits.
 
----
 
-This README gives any developer or analyst a **full understanding of how to run the project** and reproduce the results.
-
----
