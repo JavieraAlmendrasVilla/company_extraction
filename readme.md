@@ -32,7 +32,7 @@ cd company_extraction
 2. **Install dependencies**:
 
 ```bash
-pip install pandas requests tqdm
+pip install -r requirements.txt
 ```
 
 3. **Configure API key**:
