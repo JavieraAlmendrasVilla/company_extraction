@@ -119,15 +119,6 @@ data/results/screening_results.csv
 
 ---
 
-## Optional Enhancements
-
-* Extract **sentences containing keywords** for context.
-* Process **thousands of companies** using batch processing or chunked reads.
-* Use **semantic search / embeddings** for more intelligent screening beyond exact keywords.
-* Split `document_md` into sections (balance sheet, P&L, notes) for structured analysis.
-
----
-
 ## Notes
 
 * Ensure your output directories exist:
