@@ -76,11 +76,3 @@ The screening engine parses the extracted data for high-impact keywords.
   * [ ] **Visualization Dashboard**: Connect output to Tableau or Streamlit for real-time tracking.
 
 -----
-
-## 👤 Contact
-
-[cite_start]**Javiera Almendras Villa** [cite: 1]
-
-
-  * [cite_start]**GitHub**: [github.com/JavieraAlmendrasVilla](https://www.google.com/search?q=https://github.com/JavieraAlmendrasVilla) [cite: 1]
-  * [cite_start]**Hugging Face**: [huggingface.co/javiialmendras/spaces](https://huggingface.co/javiialmendras/spaces) [cite: 2]
